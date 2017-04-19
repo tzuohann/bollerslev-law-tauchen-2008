@@ -1,0 +1,7 @@
+function Z = zconv(X);
+Scale = (size(X,1)-1)/size(X,1));
+Stdev = std(X);
+Average = mean(X);
+for r = 1:size(X,1);
+    Z(r,:) = (X(r,:) - Average)/(std(X(:,1))*Scale);
+end
