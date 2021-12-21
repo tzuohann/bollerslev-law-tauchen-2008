@@ -4,5 +4,5 @@ Requires minute by minute trade or quote data obtainable from WRDS (TickData)
 Warning: Code may not run as is but should provide a clear idea of how results in the paper was generated.
 Paper obtainable from paywalled: http://www.sciencedirect.com/science/article/pii/S0304407608000080
 Or, alternatively, https://sci-hub.cc/ for accessible research
-Questions, comments, critique, bugs:
+I no longer answer questions about this bit of code. Good luck with it.
 tzuohann@gmail.com
